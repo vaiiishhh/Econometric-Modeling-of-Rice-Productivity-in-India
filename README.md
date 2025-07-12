@@ -1,4 +1,4 @@
-# Agricultural Production Function Analysis: Econometric Modeling of Rice Productivity in India
+#Econometric Modeling of Rice Productivity in India
 
 ## Project Overview
 
